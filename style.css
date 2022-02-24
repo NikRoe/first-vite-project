@@ -6,3 +6,21 @@
   color: #2c3e50;
   margin-top: 60px;
 }
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card__content {
+  margin: 2rem 5rem;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.img {
+  width: 1rem;
+}
